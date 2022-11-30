@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Annie.
+- 👋 Hi, I’m Aining.
 - 🌱 I’m currently learning computer science at Northwestern University.
 - 💞️ I’m looking to collaborate on anything cool!
 - 📫 How to reach me : https://www.linkedin.com/in/aining-li/
